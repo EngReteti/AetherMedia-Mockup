@@ -17,8 +17,8 @@ This repository serves as a design-to-repo bridge, documenting the visual archit
 
 ## 🛠 Project Roadmap
 - [x] Repository Setup & Environment Sync
-- [/] Landing Page Wireframe & Architecture
-- [ ] Visual Identity (Colors & Typography)
+- [x] Landing Page Wireframe & Architecture
+- [/] Visual Identity (Colors & Typography)
 - [ ] High-Fidelity Figma Mockup Integration
 - [ ] Final Documentation & Portfolio Polish
 
