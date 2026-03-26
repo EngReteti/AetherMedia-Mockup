@@ -18,7 +18,10 @@ This repository serves as a design-to-repo bridge, documenting the visual archit
 ## 🛠 Project Roadmap
 - [x] Repository Setup & Environment Sync
 - [x] Landing Page Wireframe & Architecture
-- [/] Visual Identity (Colors & Typography)
-- [ ] High-Fidelity Figma Mockup Integration
-- [ ] Final Documentation & Portfolio Polish
+- [x] Visual Identity (Colors & Typography)
+- [x] High-Fidelity Figma Mockup Integration
+- [x] Final Documentation & Portfolio Polish
+
+## 📱 High-Fidelity Mockup
+![Aether Media Mobile Mockup](assets/design/mockup-v1.png)
 
